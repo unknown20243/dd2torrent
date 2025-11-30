@@ -13,7 +13,7 @@ env:
       
 jobs:
   create:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
 
       - name: Update apt
