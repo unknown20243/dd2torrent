@@ -1,15 +1,15 @@
-name: Create torrent
+name: game
 on:
   push:
     branches:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "Sniper elite 3"
+  comment: "Sniper elite 3"
+  url: "https://download2391.mediafire.com/0o2dqn0wcz4gvAJ6QDQE7dj7K463V_o5IFegUQz6xNCVk3lcuHdG3GAaqeAPBzleY7jDleI_zSLffUlyO3FqU35Q0PeStplT3kaW-UYsnrNReARC8qBSLP1D_RDir5ezwghx93cD4hqwDf0po30P5pPeVqkWZLvkds4CjvmK01ZB0INBmg/mpz3cdn43kwq03x/OG13360B-TCLSCBLA.part1.rar"
+  file_name: "OG13360B-TCLSCBLA.part1.rar"
+  piece_size: 1000 # Check the README.md for recommended piece size
       
 jobs:
   create:
