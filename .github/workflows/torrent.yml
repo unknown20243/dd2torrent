@@ -7,7 +7,7 @@ on:
 env:
   name: "Sniper elite 3"
   comment: "Sniper elite 3"
-  url: "https://download2391.mediafire.com/0o2dqn0wcz4gvAJ6QDQE7dj7K463V_o5IFegUQz6xNCVk3lcuHdG3GAaqeAPBzleY7jDleI_zSLffUlyO3FqU35Q0PeStplT3kaW-UYsnrNReARC8qBSLP1D_RDir5ezwghx93cD4hqwDf0po30P5pPeVqkWZLvkds4CjvmK01ZB0INBmg/mpz3cdn43kwq03x/OG13360B-TCLSCBLA.part1.rar"
+  url: "https://download2391.mediafire.com/lhmg6tcuy6wgWEBvzMgv7FOb70LgqHvLVt6eokliyccBl8Tr-HcLdu0uVfU89WeeBx-oEwcjktv4rPq68X8hrg937wMzmuuvDYySkAUZ0kCv0oDNQqInC6A6reWRM8s2NZGvPmCetYRo-FpWWAfbi5Ir7UIhOJawli7rs39Tk0fnJzkYmw/mpz3cdn43kwq03x/OG13360B-TCLSCBLA.part1.rar"
   file_name: "OG13360B-TCLSCBLA.part1.rar"
   piece_size: 1000 # Check the README.md for recommended piece size
       
